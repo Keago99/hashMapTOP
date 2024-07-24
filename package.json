@@ -1,0 +1,22 @@
+{
+  "name": "hashmaptop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keago99/hashMapTOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keago99/hashMapTOP/issues"
+  },
+  "homepage": "https://github.com/Keago99/hashMapTOP#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
